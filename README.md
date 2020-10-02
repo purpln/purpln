@@ -1,5 +1,4 @@
-<img src=https://raw.githubusercontent.com/purpln/purpln/master/images/profile-banner.png />
-
+<img src=https://raw.githubusercontent.com/purpln/purpln/main/images/profile-banner.png />
 ## I'm Sergey Romanenko
 As a contractor, I build and design iOS apps.
 
