@@ -1,16 +1,13 @@
-<img src=https://raw.githubusercontent.com/purpln/purpln/main/images/profile-banner.png />
 ## I'm Sergey Romanenko
-As a contractor, I build and design iOS apps.
+I build and design iOS apps.
 
 ## My Work
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purpln&layout=compact" height=130 />
 <a href="https://github.com/purpln/homekit">
-  <img src="https://raw.githubusercontent.com/purpln/purpln/main/images/profile-banner.png" height=130 />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purpln&repo=homekit&show_owner=true" height=130 />
 </a>
 
-For all of my public repositories, feedback & PRs are welcomed.
-
-## 💬 Let's start a conversation
+## Contacts
 
 Ask me about iOS, Swift, design, or contract work.
 
