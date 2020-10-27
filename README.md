@@ -12,7 +12,7 @@ I build and design iOS apps.
 <a href="https://github.com/purpln/homekit">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=purpln&repo=homekit&show_owner=true" height=130/>
 </a>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purpln&layout=compact" height=130 />
 
 ## Contacts
 
