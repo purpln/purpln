@@ -10,10 +10,11 @@ I build and design iOS apps.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=purpln&repo=bluetooth&show_owner=true" height=130/>
 </a>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purpln&layout=compact" height=130 align="left"/>
 <a href="https://github.com/purpln/homekit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purpln&repo=homekit&show_owner=true" height=130 align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purpln&repo=homekit&show_owner=true" height=130/>
 </a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purpln&layout=compact" height=130/>
+
 
 ## Contacts
 
