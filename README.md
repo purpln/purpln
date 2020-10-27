@@ -4,7 +4,7 @@ I build and design iOS apps.
 ## My Work
 
 <a href="https://github.com/purpln/gamepad">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purpln&repo=gamepad&show_owner=true" height=130 align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purpln&repo=gamepad&show_owner=true" height=130/>
 </a>
 <a href="https://github.com/purpln/bluetooth">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=purpln&repo=bluetooth&show_owner=true" height=130/>
